@@ -1,3 +1,3 @@
 print(Hello)
 print(hi)
-print(25)
+print(9)
